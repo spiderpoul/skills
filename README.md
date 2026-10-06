@@ -2,7 +2,7 @@
 
 Практики, которые помогают агенту найти правильный образец, сохранить границы задачи и проверить результат.
 
-Кстати, прокачивать полезно и soft skills: задавать вопросы, договариваться и давать обратную связь. Про это и карьеру в IT — **«Debug карьеры»**, канал моей жены, IT-психолога Юлии Уваровой: [YouTube](https://www.youtube.com/@julia_uvarova_psy_cab) · [Telegram](https://t.me/julia_uvarova_psy_cab).
+💬 Кстати, прокачивать полезно и soft skills: задавать вопросы, договариваться и давать обратную связь. Про это и карьеру в IT — **«Debug карьеры»**: [▶️ YouTube](https://www.youtube.com/@julia_uvarova_psy_cab) · [✈️ Telegram](https://t.me/julia_uvarova_psy_cab).
 
 ## Начать за минуту
 
